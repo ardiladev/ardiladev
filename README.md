@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ardiladev/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/ardiladev/" align="center" ><img align="center"  alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ardiladev.ardiladev"></a>
 </p>
 
 ---
