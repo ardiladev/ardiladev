@@ -95,7 +95,7 @@
 
 <div align="center">
 <a href="mailto:jhonardila0317@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[https://www.linkedin.com/in/abd-alrrahman-alhamod/](https://www.linkedin.com/in/jhon-ardila-02190204170303-vpja/)"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/jhon-ardila-02190204170303-vpja/]"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/j_ardila"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </div>
